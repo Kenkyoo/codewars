@@ -6,4 +6,4 @@ def last_digit(lst):
         result = x ** (n if n < 4 else n % 4 + 4)
     return n % 10
 
-last_digit([3, 4, 2])
+last_digit([3, 4, 1])
